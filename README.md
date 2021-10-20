@@ -1,3 +1,3 @@
 # Recipes Bucket
-### Java, Spring Boot, MySQL, JSP, CSS, Bootstrap
+### JavaScript, React, Express, MongoDB, Material-UI, Node.js
 ---
